@@ -1,0 +1,9 @@
+.introduction {
+    display: flex;
+}
+.intro {
+    width: 50%;
+}
+nav {
+    background-color: blue;
+}
